@@ -1,0 +1,23 @@
+.component.sessions {
+  height: 100%;
+  width: 100%;
+  position: relative;
+
+  .caption {
+    position: absolute;
+    width: 80%;
+    padding: 30px;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 0.938rem;
+    opacity: 0.5;
+  }
+
+  .custom-tooltip {
+    padding: 10px;
+    background-color: #ffffff;
+    color: $darker;
+    font-size: 0.625rem;
+    font-weight: 500;
+  }
+}

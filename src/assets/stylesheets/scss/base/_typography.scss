@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,400&display=swap');
+
+* {
+  font-family: 'Roboto', serif;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+.highlight {
+  color: $primary;
+}
+
+.emphasis {
+  color: $darker;
+  font-weight: 700;
+}
+
+.subtext {
+  color: $dark;
+  font-weight: 500;
+}
